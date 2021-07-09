@@ -9,3 +9,4 @@ U1 = reshape(M-2,N-1);
 U = [COL [U1;U2] COL];
 
 end
+%% just to test
